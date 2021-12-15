@@ -1,0 +1,7 @@
+** The data.json file includes pre-processed data.
+
+1) Change DATA_PATH (line 7) to the path the data.json will is in.
+	- Needs to be absolute path.
+2) Run the rnn.py to train the model
+3) The predictions will be shown as 0, 1
+	- Where 0 is Covid and 1 is healthy.
